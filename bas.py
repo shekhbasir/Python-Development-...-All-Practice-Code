@@ -1,0 +1,1 @@
+print("i am going to lern generatiuve AI")
