@@ -75,20 +75,19 @@
 
 
 # here i am going to working with 
-number1=23
-number2=54
-
+# 
 # if number1 == number2:
 #   print("i am basir")
 # else:print("no i am the father of the all developer ")
 
 # working with multiole condo
 
-if number1 == number2 :
-  print("this nummber is equal  ")
-elif number1 <number2 :
-  print("number1 is less than two")
-elif number1 != number2 :
-  print("the numebr is greater then number 1")
-else:
-  print("nothing is match ")
+# if number1 == number2 :
+#   print("this nummber is equal  ")
+# elif number1 <number2 :
+#   print("number1 is less than two")
+# elif number1 != number2 :
+#   print("the numebr is greater then number 1")
+# else:
+#   print("nothing is match ")
+  
